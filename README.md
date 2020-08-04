@@ -2,25 +2,25 @@
 
 Javascript tutorial project from Jonas Schmedtmann's Udemy Course.
 
-# Installation
+## Installation
 
 Forkify requires Node.js to run its dependencies.
 
-# Install the dependencies and devDependencies and start the server.
+## Install the dependencies and devDependencies and start the server.
 
 $ npm install
 
-# Scripts
+## Scripts
 
 Forkify utilizes Webpack to compile its files
-#Run webpack in development mode:
+##Run webpack in development mode:
 
 $ npm run dev
 
-# Run webpack in production mode:
+## Run webpack in production mode:
 
 $ npm run build
 
-# Run webpack-dev-server:
+## Run webpack-dev-server:
 
 $ npm run watch
